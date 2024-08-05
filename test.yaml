@@ -6,7 +6,7 @@ metadata:
 spec:
   containers:
   - name: kafka
-    image: solsson/kafka:latest
+    image: imag1:latest
     command:
     - sh
     - -c
